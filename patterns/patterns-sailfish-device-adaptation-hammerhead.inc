@@ -13,6 +13,7 @@ Requires: droid-config-hammerhead-preinit-plugin
 Requires: droid-config-hammerhead-flashing
 Requires: droid-config-hammerhead-bluez5
 Requires: droid-hal-version-hammerhead
+Requires: droid-hal-hammerhead-detritus
 
 # Hybris packages
 Requires: libhybris-libEGL
